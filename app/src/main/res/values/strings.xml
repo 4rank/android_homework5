@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fedorinchik_hw5</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_follow">Follow</string>
+    <string name="text_mary">Mary</string>
+    <string name="text_name">Гомер Симпсон</string>
+    <string name="text_prof">Звезда</string>
+    <string name="post_number">7</string>
+    <string name="text_post">Посты</string>
+    <string name="follow_number">7.990</string>
+    <string name="follow">Подписки</string>
+    <string name="fol_number">133</string>
+    <string name="followers">Подписчики</string>
+    <string name="text_message">message</string>
+    <string name="text_info">info</string>
+    <string name="viki_simpsons">wikipedia.org/wiki/The_Simpsons</string>
+    <string name="et_text">Написать комментарий…</string>
+</resources>
